@@ -21,7 +21,7 @@ The insights generated informed actionable recommendations for optimizing mainte
 
 **Leveraged MSBA Skills**: Utilized skills from the Data Visualization and Introduction to Business Analytics courses to conduct EDA, create clear visualizations, and explain results in business-friendly terms that were easy to understand and actionable.
 
-**Proposed Survival Analysis Approach**: Brainstormed and developed hypotheses for using survival analysis. Suggested a top-down approach with Kaplan-Meier curves to identify time-to-failure patterns and probabilities for high-risk plants and equipment, guiding prioritization and inventory management decisions.
+**Proposed Survival Analysis Approach**: Proposed and implemented hypotheses for using survival analysis. Suggested a top-down approach with Kaplan-Meier curves to identify time-to-failure patterns and probabilities for high-risk plants and equipment, guiding prioritization and inventory management decisions.
 
 **Text Analytics Application**: Analyzed the order description column using text analytics techniques to identify frequently replaced components, revealing that fillers and valves required the most maintenance.
 
