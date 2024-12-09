@@ -10,10 +10,25 @@ The goal of this project was to address these challenges by utilizing predictive
 ### **Group’s Solution to the Business Problem**  
 Our team developed a predictive maintenance strategy by employing survival analysis and regression modeling techniques. This approach enabled us to detect patterns of frequent failures, estimate time-to-failure probabilities, and predict downtime durations. Key elements of our solution included:
 
-- **Survival Analysis**: Kaplan-Meier estimators were used to determine time-to-failure probabilities for critical equipment, such as valves and fillers, across different functional locations.
+- **Survival Analysis**: Kaplan-Meier estimators were used to determine time-to-failure probabilities for critical equipment, such as valves and fillers, across different functional locations.LogRank tests were done as a part of robustness checks for the survival analysis models.
 - **Regression Models**: We evaluated multiple regression models, ultimately identifying ElasticNet as the most effective, achieving a Test RMSE of 82.27.  
 
 The insights generated informed actionable recommendations for optimizing maintenance schedules and inventory management, leading to reduced downtime and improved operational efficiency.
+
+---
+
+### **Contribution to group project**
+
+**Leveraged MSBA Skills**: Utilized skills from the Data Visualization and Introduction to Business Analytics courses to conduct EDA, create clear visualizations, and explain results in business-friendly terms that were easy to understand and actionable.
+
+**Proposed Survival Analysis Approach**: Brainstormed and developed hypotheses for using survival analysis. Suggested a top-down approach with Kaplan-Meier curves to identify time-to-failure patterns and probabilities for high-risk plants and equipment, guiding prioritization and inventory management decisions.
+
+**Text Analytics Application**: Analyzed the order description column using text analytics techniques to identify frequently replaced components, revealing that fillers and valves required the most maintenance.
+
+**Valve Survival Analysis**: Conducted individual survival analysis for valves across six plants, focusing on unplanned maintenance events. This provided critical insights into valve replacement patterns and informed targeted maintenance strategies.
+
+**Robustness Checks**: Performed log-rank tests to compare survival patterns across functional locations, ensuring the reliability and validity of the results.
+
 
 ---
 
