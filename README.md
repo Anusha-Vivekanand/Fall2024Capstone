@@ -1,4 +1,5 @@
 # Fall2024Capstone : Swire Coca-Cola Capstone Project
+
 ### **Summary of Business Problem and Project Objective**  
 Swire Coca-Cola, a leading global beverage manufacturer, faces substantial challenges due to unexpected equipment failures across its production plants. These unplanned breakdowns reduce operational capacity to 94.4% and lead to an estimated $60 million in annual losses, affecting both efficiency and profitability.
 
